@@ -1,6 +1,6 @@
 ### Hello everyone  👋
 
-[![saalimon's github stats](https://github-readme-stats.vercel.app/api?username=saalimon&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![saalimon's github stats](https://github-readme-stats.vercel.app/api?username=saalimon&show_icons=true&theme=dracula&count_private=true&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working on data analytic and quantum computing research.
 - 😄 I’m also working software development as freelance job.
